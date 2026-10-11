@@ -4,12 +4,12 @@ rps.py
 Redistributed and modified with permission from the
 EECS Department at The University of Michigan, Ann Arbor
 
-Name: TO FILL IN (your name)
+Name: Samantha Cambridge
 
 CS 104: Project 2
 FALL 2026
 
-Description: TO FILL IN (one or two sentences about what this program does)
+Description: This program plays a three round Rock, Paper, Scissors game between two players. It manages input, scoring, and winner announcements.
 """
 
 # ***********************************************************************
