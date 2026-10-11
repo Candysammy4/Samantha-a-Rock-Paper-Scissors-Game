@@ -1,6 +1,13 @@
 """
 start.py (PROVIDED: do not modify)
 Runs your game. Run it with: python3 start.py
+
+Name: Samantha Cambridge
+
+CS 104: Project 2
+FALL 2026
+
+Description: This program plays a three round Rock, Paper, Scissors game between two players. It manages input, scoring, and winner announcements.
 """
 from rps import rps
 COURSE_NAME = "CS 104"
